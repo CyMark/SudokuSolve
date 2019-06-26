@@ -56,7 +56,8 @@ Date: 25 June 2019
 SudokuSolve RELEASE V0.2 Beta BUILD 6 Revision 116
 Date: 26 June 2019
 - Restart application using .NET 4.6.2 and correct spelling.
-- 
+- Add Quit button and menu strip.
+- UI controls added.
 
 
 ===== end =====
