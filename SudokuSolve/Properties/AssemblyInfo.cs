@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SudokuSolve")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyTitle("SudokuSolve RELEASE V0.2 Beta BUILD 6 Revision 116")]
+[assembly: AssemblyDescription("Sudoku Solver Assistant Win Forms")]
+[assembly: AssemblyConfiguration("Author: P.I.Swanepoel")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SudokuSolve")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright © CyMark Largo 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("0.2.6.116")]
+[assembly: AssemblyFileVersion("0.2.6.116")]

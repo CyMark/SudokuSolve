@@ -3,7 +3,7 @@ Date: 21 June 2019
 
 Description:  Winform Sudoku Game.  Form and graphics was prototyped via WinformTest1.
 
-.NET 4.6.1
+.NET 4.6.2
 
 Repository:
 https://cymarklargo.com:8443/svn/VS2017/SudokuSolve
@@ -52,6 +52,11 @@ Date: 25 June 2019
 - Fix spelling of Sudoku.
 - Remove SSHLib
 
+
+SudokuSolve RELEASE V0.2 Beta BUILD 6 Revision 116
+Date: 26 June 2019
+- Restart application using .NET 4.6.2 and correct spelling.
+- 
 
 
 ===== end =====

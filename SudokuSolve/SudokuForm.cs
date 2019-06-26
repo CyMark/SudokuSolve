@@ -28,9 +28,22 @@ namespace SudokuSolve
         //  UI Events
         //--------------------------------------------------------------------------------------------
 
+        private void Quit()
+        {
+            DialogResult res = MessageBox.Show("Quit?", "Exit", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
+
+            if (res.ToString() == "OK")
+            { Application.Exit(); }
+        }
+
         private void buttonQuit_Click(object sender, EventArgs e)
         {
+            Quit();
+        }
 
+        private void quitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Quit();
         }
     } // class SudokuForm
 }
